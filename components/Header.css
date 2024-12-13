@@ -1,0 +1,12 @@
+header {
+  &.authenticated {
+    background-color: lightgreen;
+  }
+
+  &.unauthenticated {
+    background-color: orange;
+  }
+
+  height: 2.5em;
+  padding: 0.5em;
+}
